@@ -1,0 +1,31 @@
+html {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    width: 100%;
+}
+
+#container {
+    width: 600px;
+    margin: 0 auto;
+}
+
+h1 {
+    text-align:center;
+}
+
+#channelPull {
+    width: 600px;
+}
+
+#iframeEmbed {
+    margin-left: 108px;
+}
+
+h2 {
+    text-align: center;
+    color: red;
+    font-style: italic;
+}
